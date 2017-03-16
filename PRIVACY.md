@@ -52,7 +52,7 @@ Regardless of your settings, your email is never shared to third parties for
 non-essential purposes. In other words, we don't sell your email addresses.
 Your billing email may be shared with [Stripe](https://stripe.com), our
 payment partner, so that you can receive invoices when you make payments on
-the website. Stripe is a well-known and trusted payment provided with an
+the website. Stripe is a well-known and trusted payment provider with an
 excellent reputation and track record, they do not spam their users nor do
 anything nefarious with the emails.
 
