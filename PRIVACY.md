@@ -148,8 +148,8 @@ debugging only. None of those logs contain any personally-identifiable
 information and they are all destroyed once they become irrelevant within the
 first 60 days after they are written.
 
-We use [Google Analytics](Google Analytics) to understand how our users use the
-website. All data is anonymous. HSReplay.net respects the
+We use [Google Analytics](https://analytics.google.com) to understand how our
+users use the website. All data is anonymous. HSReplay.net respects the
 [Do Not Track standard](https://www.mozilla.org/en-US/firefox/dnt/) and does not
 serve Google Analytics to browsers sending this header.
 If you are concerned with usage tracking on the internet, we recommend the
