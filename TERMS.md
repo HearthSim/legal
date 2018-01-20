@@ -16,7 +16,7 @@ The source of this Terms of Service document is hosted
 You may find its complete edit history there.
 
 The last update to this document (excluding formatting changes, typo fixes, etc)
-was on **2017-03-16**.
+was on **2018-01-20**.
 
 
 ## 1. Terms of Service
@@ -27,9 +27,10 @@ Policy"), are a legal agreement between HearthSim, LLC, and its related
 companies and affiliates (the "Company", "HearthSim" or "we") and you
 ("you"). By using or accessing HSReplay.net (the "Site"), the
 Hearthstone Deck Tracker, or any other websites, APIs, applications, or
-services offered by the Company, which are collectively referred to as
-the "Service," you agree (i) that you are 13 years of age or older, (ii)
-if you are the age of majority in your jurisdiction or over, that you
+services offered by the Company (including the HearthSim Referral Program
+referred to in more detail in Section 5), which are collectively referred
+to as the "Service," you agree (i) that you are 13 years of age or older,
+(ii) if you are the age of majority in your jurisdiction or over, that you
 have read, understood, and accept to be bound by the Terms, and (iii) if
 you are between 13 and the age of majority in your jurisdiction, that
 your legal guardian has reviewed and agrees to these Terms.
@@ -148,7 +149,7 @@ no reason. HearthSim will have no obligation to provide a refund of any
 amounts previously paid.
 
 
-## 5. Payment and Renewal
+## 5. Payment, Renewal and Referral Program
 
 We will not charge you a fee to use the basic functionality of the
 Service. However, you may have to pay a fee to use certain features of
@@ -166,6 +167,22 @@ us to collect the then-applicable subscription fee for that Premium
 Service. Premium Services can be canceled at any time in the Billing
 section of your account settings, with the cancellation taking effect at
 the commencement of the next subscription period.
+
+If you participate in the HearthSim Referral Program ("Referral Program"),
+referrals of first-time, new users who sign up for the Premium Service may
+qualify you for a partial credit towards your next purchase with HearthSim.
+These credits have no cash value, are merely used to reliably calculate
+Premium Service fee discounts, and cannot be converted into any kind of
+monetary refund or payment. These credits are not guaranteed to be available
+for all payment methods. Credits accrued through participation in the Referral
+Program are non-transferrable and the existence of accrued credits from the
+Referral Program do not prevent HearthSim from terminating your account at any
+time in accordance with these Terms. It should also be understood by you that
+the terms and conditions of the Referral Program can be changed by HearthSim
+at any time and for any reason, including, but not limited to, terminating the
+Referral Program, increasing or decreasing the per referral credit value used
+for calculating discounts, instituting or changing an expiration date for
+using accrued credits, or changing the conditions for earning referral credit.
 
 The Service is controlled and offered by the Company from its facilities
 in the United States of America. The Company makes no representations
@@ -314,14 +331,15 @@ other person.
 HearthSim may terminate your access to all or any part of our Services
 at any time, with or without cause, with or without notice, effective
 immediately. You may, as the result of termination, lose your account,
-Content, Replays, and all information and data associated therewith, as
-applicable and the Company is under no obligation to compensate you for
-any such loss. If you wish to terminate this agreement or any accounts
-on the Service you may have, you may simply discontinue using our
-Services. All provisions of this agreement which by their nature should
-survive termination shall survive termination, including, without
-limitation, ownership provisions, warranty, disclaimers, indemnity and
-limitations of liability.
+Content, Replays, credits accrued under the Referral Program, and all
+information and data associated therewith, as applicable and the
+Company is under no obligation to compensate you for any such loss.
+If you wish to terminate this agreement or any accounts on the Service
+you may have, you may simply discontinue using our Services.
+All provisions of this agreement which by their nature should survive
+termination shall survive termination, including, without limitation,
+ownership provisions, warranty, disclaimers, indemnity and limitations
+of liability.
 
 
 ## 12. Disclaimer of Warranties
