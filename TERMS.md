@@ -259,7 +259,7 @@ Please follow these steps to file a notice:
 2. **Attempt to contact the alleged infringer directly** to see if the
    matter can be resolved directly between you and the user.
 
-3. Send your complaint to <dcma@hearthsim.net> if the issue cannot be
+3. Send your complaint to <dmca@hearthsim.net> if the issue cannot be
    resolved directly with the user. You must include the following:
 
    - A physical or electronic signature of the copyright owner or a person
