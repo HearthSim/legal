@@ -37,10 +37,48 @@ delegate authentication to Battle.net, and then automatically create a
 corresponding account for you. The **only** data sent by the Battle.net API is
 your Battletag and your Battle.net Account ID; both are stored in order to
 enable you to log in.
-**HSReplay.net does not receive any type of personally-identifiable information
-from Battle.net such as passwords, names, emails, addresses or billing data.**
-You may view and manage your social account connections from
-[the Connections page](https:///hsreplay.net/account/social/connections/).
+
+
+### Third-Party Login Data
+
+We offer solutions to sign in and/or authenticate using third party services.
+This is colloquially known as "social authentication" or "OAuth login".
+
+You may connect certain third parties to your HSReplay.net account. Upon doing
+so, you authorize the third party to share some of your account data with us.
+This type of authentication is secure and HSReplay.net never gains access to
+the corresponding account's password.
+
+You may manage those connections and subsequently delete any data that the third
+party in question shared with us by removing the account connection from the
+[Connected accounts section](https://hsreplay.net/account/social/connections/)
+of the Account settings dashboard.
+
+For detailed information, please refer to the Privacy Policy of the third party
+in question. Below is a list of the data third parties share with us and their
+corresponding Privacy Policy. This list is not guaranteed to be exhaustive.
+
+
+#### Blizzard ("Battle.net")
+
+- Blizzard Account ID
+- BattleTag (if one exists)
+- [Blizzard Privacy Policy](https://us.blizzard.com/en-us/company/about/privacy.html)
+
+
+#### Discord
+
+- Discord account ID, username and account email
+- Discord avatar ID
+- [Discord Privacy Policy](https://discordapp.com/privacy)
+
+
+#### Twitch
+
+- Twitch account ID, username, display name, account email and creation date
+- Twitch account "bio" (if one exists)
+- Twitch avatar URL (hosted by Twitch)
+- [Twitch Privacy Policy](https://www.twitch.tv/p/legal/privacy-policy/).
 
 
 ### Billing data
