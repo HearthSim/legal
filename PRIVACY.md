@@ -42,23 +42,6 @@ from Battle.net such as passwords, names, emails, addresses or billing data.**
 You may view and manage your social account connections from
 [the Connections page](https:///hsreplay.net/account/social/connections/).
 
-HSReplay.net will store your email address if you provide it to us. We may use
-it to contact you for account-related matters, or occasionally for marketing
-purposes (eg. to announce new features). You may opt out of receiving such
-marketing emails by going to your
-[email settings page](https://hsreplay.net/account/email/).
-
-Regardless of your settings, your email is never shared to third parties for
-non-essential purposes. In other words, we don't sell your email addresses.
-Your billing email may be shared with [Stripe](https://stripe.com), our
-payment partner, so that you can receive invoices when you make payments on
-the website. Stripe is a well-known and trusted payment provider with an
-excellent reputation and track record, they do not spam their users nor do
-anything nefarious with the emails.
-
-You may view and manage your associated email addresses from
-[the email settings page](https://hsreplay.net/account/email/).
-
 
 ### Billing data
 
@@ -102,6 +85,25 @@ For more information on PCI Compliance, please see the following resources:
 * [PCI Compliance Guide](https://www.pcicomplianceguide.org/faq/)
 * [Stripe PCI Compliance information](https://stripe.com/docs/security)
 * [PayPal PCI Compliance information](https://www.paypal.com/us/webapps/mpp/pci-compliant-solution)
+
+
+### Email data
+
+Upon signing up with our services, we ask that you share your email address
+with us. We will verify that you own this email address by first sending you a
+verification email.
+
+This address may be used for account and billing related notifications.
+Furthermore, the billing email is automatically shared with Stripe, our Payment
+gateway. Your email may be deleted from Stripe by deleting your account.
+
+Upon signup or during your usage of the site, you may also be asked whether you
+would like to opt in to marketing emails. You may opt in or out of marketing
+emails at any time from the
+[Email section](https://hsreplay.net/account/email/) of the Account settings.
+
+Regardless of policy, we respect your inbox and we will take great care not to
+send you unnecessary or unsolicited emails.
 
 
 ### Account deletion
