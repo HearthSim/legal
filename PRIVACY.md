@@ -165,6 +165,21 @@ Deleting your account or replays DOES NOT remove or reset the following data:
 * Any billing data or records we are legally obligated to keep.
 
 
+### Usage tracking and Telemetry
+
+Our servers log requests across our web pages and APIs for security, auditing
+and debugging purposes. All server logs are destroyed within 14 days, unless
+exceptional circumstances (such as legal or security reasons) require us to
+keep them longer.
+
+We use [Google Analytics](https://analytics.google.com) to understand how our
+users use the website. All data is anonymous. HSReplay.net respects the
+[Do Not Track standard](https://www.mozilla.org/en-US/firefox/dnt/) and does not
+serve Google Analytics to browsers sending this header.
+If you are concerned with usage tracking on the internet, we recommend the
+[EFF's Privacy Badger](https://www.eff.org/privacybadger) browser extension.
+
+
 ### Hearthstone Deck Tracker
 
 [Hearthstone Deck Tracker](https://hsdecktracker.net) (HDT) is our official
@@ -224,15 +239,3 @@ _Statistics contributions_ section.
 Our servers are hosted in Northern Virginia in the United States of America, on
 the [Amazon Web Services infrastructure](https://aws.amazon.com/).
 All replays are stored on [S3](https://aws.amazon.com/s3/) in the same region.
-
-Our servers log requests across our web pages and APIs for the purposes of
-debugging only. None of those logs contain any personally-identifiable
-information and they are all destroyed once they become irrelevant within the
-first 60 days after they are written.
-
-We use [Google Analytics](https://analytics.google.com) to understand how our
-users use the website. All data is anonymous. HSReplay.net respects the
-[Do Not Track standard](https://www.mozilla.org/en-US/firefox/dnt/) and does not
-serve Google Analytics to browsers sending this header.
-If you are concerned with usage tracking on the internet, we recommend the
-[EFF's Privacy Badger](https://www.eff.org/privacybadger) browser extension.
