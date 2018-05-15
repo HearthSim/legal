@@ -62,17 +62,46 @@ You may view and manage your associated email addresses from
 
 ### Billing data
 
-We use [Stripe](https://stripe.com/) to allow for payments on HSReplay.net.
-Stripe is a secure payment provider, trusted by
-[thousands of online businesses](https://stripe.com/customers). When you input
-a credit card number on HSReplay.net, you are directly communicating it to
-Stripe; HSReplay.net does not ever see or store your full credit card number.
+When opting to make a purchase with us, you implicitly share some information
+with us that we may store indefinitely for legal and tax compliance purposes.
 
-In order to provide you with billing management features, we store a backup of
-small amounts of data that Stripe gives us access to. This includes the last 4
-digits of your credit card numbers as well as your payment history with the
-website. **We do not store your name nor any sensitive payment information** as
-part of this process.
+The type of data received and stored depends on the Payment Provider you use.
+However, in no case does HSReplay.net ever get access or store any data
+considered sensitive by PCI-DSS, such as full payment card number. Furthermore,
+at no point during payment is your information transferred over an insecure
+connection. As of May 2018, all connections to HSReplay.net and other HearthSim
+services are encrypted and require TLS version 1.2 or higher.
+
+
+#### For PayPal users
+
+Upon making a purchase with [PayPal](https://www.paypal.com/), the following
+personal information is shared with us from the PayPal account used:
+
+- First and Last name
+- Email address
+- Shipping address (as configured on PayPal)
+
+
+#### For Stripe users
+
+For all payment methods except PayPal, we use [Stripe](https://stripe.com/),
+a secure payment provider, trusted by
+[thousands of online businesses](https://stripe.com/customers).
+When you input payment information on HSReplay.net, you are sending it directly
+to Stripe; HSReplay.net does not ever see or store your full credit card number
+or any information considered sensitive by PCI-DSS.
+
+
+#### PCI Compliance
+
+Thanks to the help of our payment gateways, HSReplay.net complies with PCI-DSS.
+For more information on PCI Compliance, please see the following resources:
+
+* [PCI Security Standards Council website](https://www.pcisecuritystandards.org)
+* [PCI Compliance Guide](https://www.pcicomplianceguide.org/faq/)
+* [Stripe PCI Compliance information](https://stripe.com/docs/security)
+* [PayPal PCI Compliance information](https://www.paypal.com/us/webapps/mpp/pci-compliant-solution)
 
 
 ### Account deletion
