@@ -77,16 +77,23 @@ part of this process.
 
 ### Account deletion
 
-You may request to delete your account from the "Delete account" section of
-your [account page](https://hsreplay.net/account/). Upon doing so, your account
-will be marked for deletion and you will no longer be able to log into it.
-All account data will be irreversibly wiped within the following 7 days.
-Uploaded replays will be detached from the account and will only be reachable
-via links you may have previously shared. However, you can elect to to have
-them deleted as well.
+You may delete your account from the
+[Delete account section](https://hsreplay.net/account/delete/) of the Account
+settings dashboard.
 
-Please note that deleting your account will not delete your associated payment
-history with us.
+Upon doing so, your account will be immediately deleted and you will no longer
+be able to log into it. Logging back into the website will create a new account.
+
+All account data is irreversibly wiped once the account is deleted.
+Uploaded replays are detached from the account and will only be reachable via
+their URLs or any page listing them.
+[Click here](https://hsreplay.net/account/delete/replays/) to access the replay
+deletion page.
+
+Deleting your account or replays DOES NOT remove or reset the following data:
+
+* "Global" statistical data (game records used across the entire playerbase).
+* Any billing data or records we are legally obligated to keep.
 
 
 ### Hearthstone Deck Tracker
