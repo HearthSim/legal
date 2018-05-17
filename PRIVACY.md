@@ -216,8 +216,12 @@ archive from [your account page](https://hsreplay.net/account/), under the
 _Statistics contributions_ section.
 
 
-## Other information
+## List of Third Parties
 
-Our servers are hosted in Northern Virginia in the United States of America, on
-the [Amazon Web Services infrastructure](https://aws.amazon.com/).
-All replays are stored on [S3](https://aws.amazon.com/s3/) in the same region.
+As part of our operations and in order to provide you with our services, we
+sometimes need to share data with third parties.
+
+The list of third parties we may share data with, as well as resources on their
+own privacy policies and compliance information, is available here:
+
+<https://hsreplay.net/about/third-parties/>
