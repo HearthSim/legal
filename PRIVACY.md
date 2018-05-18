@@ -155,11 +155,29 @@ exceptional circumstances (such as legal or security reasons) require us to
 keep them longer.
 
 We use [Google Analytics](https://analytics.google.com) to understand how our
-users use the website. All data is anonymous. HSReplay.net respects the
-[Do Not Track standard](https://www.mozilla.org/en-US/firefox/dnt/) and does not
-serve Google Analytics to browsers sending this header.
+users use the website. All data is anonymous.
+We also use our own internal tracking tooling. Data tracked using our own tools
+is not sent to a third party, as we process that data ourselves.
+
 If you are concerned with usage tracking on the internet, we recommend the
 [EFF's Privacy Badger](https://www.eff.org/privacybadger) browser extension.
+
+
+#### Opting out of usage tracking
+
+HSReplay.net respects the
+[Do Not Track standard](https://www.mozilla.org/en-US/firefox/dnt/) and does not
+serve Google Analytics to browsers sending the `DNT` header. If you wish to
+opt out of website usage tracking, please enable "Do Not Track" in your browser.
+
+- [Enabling Do Not Track in Mozilla Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature)
+- [Enabling Do Not Track in Google Chrome](https://support.google.com/chrome/answer/2790761)
+- [Enabling Do Not Track in Microsoft Edge](https://privacy.microsoft.com/en-US/windows-10-microsoft-edge-and-privacy)
+
+The Hearthstone Deck Tracker application also sends usage tracking to our own
+servers. Such telemetry helps us understand how our users use the software.
+To disable telemetry on Hearthstone Deck Tracker for Windows, open the options
+menu, then go to `tracker › settings` and disable `Submit anonymous data`.
 
 
 ### Hearthstone Deck Tracker
@@ -168,12 +186,6 @@ If you are concerned with usage tracking on the internet, we recommend the
 replay upload client. Whenever you finish a game of Hearthstone with HDT
 running, the game's log is automatically uploaded to HSReplay.net. You can
 disable those uploads in HDT itself, in `options › tracker › replays`.
-
-By default, HDT also sends some basic usage statistics to our servers upon
-starting the application and completing a game.
-We use this data _only in aggregate_ to help us understand how our users use
-the software. To disable this from HDT, go to `options › tracker › settings`
-and check off _Submit anonymous data_.
 
 
 ### Data Originating from Uploaded Replays
