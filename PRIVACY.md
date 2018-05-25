@@ -16,7 +16,7 @@ As of March 2017, the source document of this Privacy Policy is hosted
 find its edit history there.
 
 The last update to this document (excluding formatting changes, typo fixes, etc)
-was on **2017-05-20**.
+was on **2018-05-20**.
 
 
 ## Your Data
