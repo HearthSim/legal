@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2018-05-20**.
+This list, to the best of our knowledge, is accurate as of **2018-08-02**.
 
 
 ## Billing and Payments
@@ -76,6 +76,14 @@ Finally, we also use the GSuite product suite for internal purposes.
 * [Google Privacy Policy](https://policies.google.com/privacy?hl=en)
 * [Google Analytics Security & Compliance](https://support.google.com/analytics/answer/6004245?hl=en)
 * [Google Fonts privacy note](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users)
+
+
+### Facebok
+
+We might choose to run ads for HSReplay.net on Facebook and use a pixel to track their performance.
+
+* [Official website](https://www.facebook.com/)
+* [Facebook Data Policy](https://www.facebook.com/full_data_use_policy)
 
 
 ### Gleam
