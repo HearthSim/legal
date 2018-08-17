@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2018-08-02**.
+This list, to the best of our knowledge, is accurate as of **2018-08-17**.
 
 
 ## Billing and Payments
@@ -84,6 +84,14 @@ We might choose to run ads for HSReplay.net on Facebook and use a pixel to track
 
 * [Official website](https://www.facebook.com/)
 * [Facebook Data Policy](https://www.facebook.com/full_data_use_policy)
+
+
+### Nitropay
+
+Nitropay is a platform that provides us with ads we show on our site to help us pay to keep it running.
+
+- [Official website](https://nitropay.com/)
+- [Nitropay Privacy Policy](https://nitropay.com/privacy)
 
 
 ### Gleam
