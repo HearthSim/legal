@@ -78,7 +78,7 @@ Finally, we also use the GSuite product suite for internal purposes.
 * [Google Fonts privacy note](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users)
 
 
-### Facebok
+### Facebook
 
 We might choose to run ads for HSReplay.net on Facebook and use a pixel to track their performance.
 
