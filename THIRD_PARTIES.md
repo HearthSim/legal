@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2018-08-17**.
+This list, to the best of our knowledge, is accurate as of **2019-03-20**.
 
 
 ## Billing and Payments
