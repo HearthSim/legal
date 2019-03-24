@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2019-03-20**.
+This list, to the best of our knowledge, is accurate as of **2019-03-24**.
 
 
 ## Billing and Payments
@@ -114,9 +114,19 @@ go through Intercom.
 * [Intercom Privacy Shield](https://www.intercom.com/terms-and-policies#eu-us)
 * [Intercom List of Third Parties](https://www.intercom.com/terms-and-policies#security-third-parties)
 
+
 ### Network N
 
 Network N provides targeted and relevant advertising placements on our websites, to users of our websites, to help us pay to keep them up and running so we can continue to provide services to you.
 
 * [Official website](https://www.network-n.com/)
 * [Network N Privacy Policy](https://www.network-n.com/privacy-policy/)
+
+
+### MailChimp
+
+MailChimp sends out the marketing emails you might receive from us.
+They ensure our emails fulfill any legal requirements and manage the associated services, such as viewing emails in your browser and unsubscribe links.
+
+* [Official website](https://mailchimp.com/)
+* [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/)
