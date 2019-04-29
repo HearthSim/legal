@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2019-03-24**.
+This list, to the best of our knowledge, is accurate as of **2019-04-29**.
 
 
 ## Billing and Payments
@@ -130,3 +130,11 @@ They ensure our emails fulfill any legal requirements and manage the associated 
 
 * [Official website](https://mailchimp.com/)
 * [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/)
+
+
+### Heap Analytics
+
+Heap Analytics provides us with intelligence on how users use our websites and applications.
+
+- [Official website](https://heap.io)
+- [Heap Analytics Privacy Policy](https://heap.io/privacy)
