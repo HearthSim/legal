@@ -1,12 +1,12 @@
 # Our Privacy Policy
 
-As with most online services, you trust us (HearthSim, LLC) with your data when you use our websites: HSReplay.net and Untapped.gg (individually referred to as a “Site”, and collectively, “Sites”) and related apps such as the Hearthstone Deck Tracker, HSTracker, Arcane Tracker, and the Untapped.gg Companion (the Sites and any apps individually/collectively referred to as a “Service” or “Services”). This Privacy Policy is here to help you understand what information we collect, how we collect it, how we store it and what we do with it. If you have any questions or concerns about this policy or your data in general, email us at [privacy@hearthsim.net](mailto:privacy@hearthsim.net) and we’ll get back to you as soon as possible.
+As with most online services, you trust us (HearthSim, LLC) with your data when you use our websites: HSReplay.net and Untapped.gg (individually referred to as a “Site”, and collectively, “Sites”) and related apps such as the Untapped.gg Companion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker (the Sites and any apps individually/collectively referred to as a “Service” or “Services”). This Privacy Policy is here to help you understand what information we collect, how we collect it, how we store it and what we do with it. If you have any questions or concerns about this policy or your data in general, email us at [privacy@hearthsim.net](mailto:privacy@hearthsim.net) and we’ll get back to you as soon as possible.
 
 We do not collect any special or sensitive categories of personal data, including racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, or data concerning health or concerning a natural person’s sex life or sexual orientation, unless one of the exceptions of Article 9 GDPR apply. If at any time, you feel that this type of information has been requested of you, or been collected from you, by the Service please notify us immediately.
 
 As described in our [Terms of Service](/legal/terms-of-service.html), you may not use our Services if you are under the age of 13; or, if you are between the ages of 13 and 16, you are below the age of consent in your legal jurisdiction and you do not have the consent of the holder of your parental responsibility. We do not intend to collect or process data from minors falling into these categories.
 
-The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-03-20**.
+The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-07-19**.
 
 
 # Your Data
@@ -75,7 +75,7 @@ The apps we provide as part of the Service also send usage tracking telemetry da
 
 ## Hearthstone Deck Tracker & Untapped.gg Companion
 
-Hearthstone Deck Tracker, HSTracker, Arcane Tracker and the Untapped.gg Companion are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
+The Untapped.gg Comapanion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
 
 
 ## Cookies

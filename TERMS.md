@@ -4,9 +4,9 @@
 
 ## The Gist
 
-We, the folks at [HearthSim](https://hearthsim.net/), are the creators of [Untapped.gg](https://untapped.gg/), and [HSReplay.net](https://hsreplay.net/), (each individually referred to as a “Site”) the Untapped.gg Companion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker, and many of the tools, services and mobile apps that power the online gaming community (the Sites and any tools, services, and mobile apps individually/collectively referred to as “a” or “the Service” or “Services”). We hope that you like our projects. We want you to use them! However, to ensure your safety and ours, there are limitations on how you may use these Services. These limitations are the Terms of Service.
+We, the folks at [HearthSim](https://hearthsim.net/), are the creators of [Untapped.gg](https://untapped.gg/), and [HSReplay.net](https://hsreplay.net/), (each individually referred to as a “Site”) the Untapped.gg Companion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker, Lotus Tracker, and many of the tools, services and mobile apps that power the online gaming community (the Sites and any tools, services, and mobile apps individually/collectively referred to as “a” or “the Service” or “Services”). We hope that you like our projects. We want you to use them! However, to ensure your safety and ours, there are limitations on how you may use these Services. These limitations are the Terms of Service.
 
-The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-03-20**.
+The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-07-19**.
 
 
 ## 1. Terms of Service
