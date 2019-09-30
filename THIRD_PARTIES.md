@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2019-04-29**.
+This list, to the best of our knowledge, is accurate as of **2019-09-30**.
 
 
 ## Billing and Payments
@@ -65,6 +65,14 @@ Sentry provides us with crash reports for our web and desktop applications.
 
 ## Other
 
+### Comscore
+
+Comscore provides us with data about our advertisements to keep our ads relevant and interesting.
+
+* [Official website](https://www.comscore.com/)
+* [Comscore Privacy Policy](https://www.comscore.com/About-comScore/Privacy-Policy)
+
+
 ### Google
 
 Google Analytics provides us with intelligence on how users use our websites, applications and videos.
@@ -80,18 +88,10 @@ Finally, we also use the GSuite product suite for internal purposes.
 
 ### Facebook
 
-We might choose to run ads for HSReplay.net on Facebook and use a pixel to track their performance.
+We might choose to run ads for our products on Facebook and use a pixel to track their performance.
 
 * [Official website](https://www.facebook.com/)
 * [Facebook Data Policy](https://www.facebook.com/full_data_use_policy)
-
-
-### Nitropay
-
-Nitropay is a platform that provides us with ads we show on our site to help us pay to keep it running.
-
-- [Official website](https://nitropay.com/)
-- [Nitropay Privacy Policy](https://nitropay.com/privacy)
 
 
 ### Gleam
