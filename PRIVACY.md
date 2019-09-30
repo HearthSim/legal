@@ -6,7 +6,7 @@ We do not collect any special or sensitive categories of personal data, includin
 
 As described in our [Terms of Service](/legal/terms-of-service.html), you may not use our Services if you are under the age of 13; or, if you are between the ages of 13 and 16, you are below the age of consent in your legal jurisdiction and you do not have the consent of the holder of your parental responsibility. We do not intend to collect or process data from minors falling into these categories.
 
-The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-07-19**.
+The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-09-30**.
 
 
 # Your Data
@@ -63,7 +63,12 @@ Thanks to the help of our payment gateways, our Service complies with PCI-DSS. F
 * [PayPal PCI Compliance information](https://www.paypal.com/us/webapps/mpp/pci-compliant-solution)
 
 
-### Usage tracking and telemetry
+## Hearthstone Deck Tracker & Untapped.gg Companion
+
+The Untapped.gg Comapanion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
+
+
+## Usage tracking and telemetry
 
 Our servers log requests across our web pages and APIs for security, auditing and debugging purposes. All server logs are destroyed within 14 days, unless exceptional circumstances (such as legal or security reasons) require us to keep them longer.
 
@@ -73,9 +78,10 @@ If you are concerned with usage tracking on the internet, we recommend the [EFF
 
 The apps we provide as part of the Service also send usage tracking telemetry data to our own servers. Such telemetry helps us understand how our users use the software.
 
-## Hearthstone Deck Tracker & Untapped.gg Companion
 
-The Untapped.gg Comapanion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
+## Advertisements
+
+We use third party advertisements to support our sites. Some of these advertisements may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookies using the "Manage Cookie Settings" button at the bottom of our pages.
 
 
 ## Cookies
@@ -154,6 +160,7 @@ Deleting your account or Gameplay Related Data DOES NOT remove or reset the foll
 
 * “Global” or aggregated statistical data (anonymized game records used across the entire player base) or anonymized individual data.
 * Any data, information or records we are legally obligated to keep.
+
 
 ## Contact
 
