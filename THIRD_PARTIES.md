@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2019-09-30**.
+This list, to the best of our knowledge, is accurate as of **2020-03-08**.
 
 
 ## Billing and Payments
@@ -30,6 +30,16 @@ We partner with PayPal to offer "Pay using PayPal" payment capabilities on our w
 * [Official website](https://www.paypal.com/)
 * [PayPal Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 * [PayPal List of Third Parties](https://www.paypal.com/uk/webapps/mpp/ua/third-parties-list)
+
+
+### Xsolla
+
+We may choose to license some of our products to you through Xsolla.
+In those cases you will be explicitely asked whether you agree with their terms during the checkout process.
+
+* [Official website](https://xsolla.com/)
+* [Xsolla Privacy Policy](https://xsolla.com/privacypolicy)
+* [Xsolla Cookie Policy](https://xsolla.com/cookie)
 
 
 ### ProfitWell
