@@ -65,7 +65,7 @@ Thanks to the help of our payment gateways, our Service complies with PCI-DSS. F
 
 ## Hearthstone Deck Tracker & Untapped.gg Companion
 
-The Untapped.gg Comapanion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
+The Untapped.gg Companion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker and Lotus Tracker are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
 
 
 ## Usage tracking and telemetry
