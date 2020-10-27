@@ -99,6 +99,7 @@ Finally, we also use the GSuite product suite for internal purposes.
 ### Facebook
 
 We might choose to run ads for our products on Facebook and use a pixel to track their performance.
+We also may send anonymized identifiers to Facebook in order for retargeting.
 
 * [Official website](https://www.facebook.com/)
 * [Facebook Data Policy](https://www.facebook.com/full_data_use_policy)
@@ -123,14 +124,6 @@ go through Intercom.
 * [Intercom Privacy Policy](https://www.intercom.com/terms-and-policies#privacy)
 * [Intercom Privacy Shield](https://www.intercom.com/terms-and-policies#eu-us)
 * [Intercom List of Third Parties](https://www.intercom.com/terms-and-policies#security-third-parties)
-
-
-### Network N
-
-Network N provides targeted and relevant advertising placements on our websites, to users of our websites, to help us pay to keep them up and running so we can continue to provide services to you.
-
-* [Official website](https://www.network-n.com/)
-* [Network N Privacy Policy](https://www.network-n.com/privacy-policy/)
 
 
 ### MailChimp
