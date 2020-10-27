@@ -75,14 +75,6 @@ Sentry provides us with crash reports for our web and desktop applications.
 
 ## Other
 
-### Comscore
-
-Comscore provides us with data about our advertisements to keep our ads relevant and interesting.
-
-* [Official website](https://www.comscore.com/)
-* [Comscore Privacy Policy](https://www.comscore.com/About-comScore/Privacy-Policy)
-
-
 ### Google
 
 Google Analytics provides us with intelligence on how users use our websites, applications and videos.
