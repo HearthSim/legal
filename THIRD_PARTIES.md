@@ -9,7 +9,7 @@ hosting, billing, analytics, etc.
 HearthSim is not in the business of selling your personal data.
 We provide the following list in order to maximize transparency.
 
-This list, to the best of our knowledge, is accurate as of **2020-03-08**.
+This list, to the best of our knowledge, is accurate as of **2022-06-13**.
 
 
 ## Billing and Payments
@@ -40,14 +40,6 @@ In those cases you will be explicitely asked whether you agree with their terms 
 * [Official website](https://xsolla.com/)
 * [Xsolla Privacy Policy](https://xsolla.com/privacypolicy)
 * [Xsolla Cookie Policy](https://xsolla.com/cookie)
-
-
-### ProfitWell
-
-ProfitWell provides us with data intelligence and customer behaviour around our payments systems.
-
-* [Official website](https://www.profitwell.com/)
-* [ProfitWell Privacy Policy](https://www.profitwell.com/privacy-policy)
 
 
 ## Operations
@@ -126,10 +118,3 @@ They ensure our emails fulfill any legal requirements and manage the associated 
 * [Official website](https://mailchimp.com/)
 * [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/)
 
-
-### Heap Analytics
-
-Heap Analytics provides us with intelligence on how users use our websites and applications.
-
-- [Official website](https://heap.io)
-- [Heap Analytics Privacy Policy](https://heap.io/privacy)
