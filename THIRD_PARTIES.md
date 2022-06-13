@@ -118,3 +118,20 @@ They ensure our emails fulfill any legal requirements and manage the associated 
 * [Official website](https://mailchimp.com/)
 * [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/)
 
+
+### Mixpanel
+
+We might enable Mixpanel for some users to measure the pages they visit and features they interact with.
+We use the data to learn which of our features are important to you and to choose which features we should add or improve next.
+
+* [Official website](https://mixpanel.com/)
+* [Mixpanel Privacy Policy](https://mixpanel.com/legal/privacy-policy/)
+
+
+### Woopra
+
+We might enable Woopra for some users to measure the pages they visit and features they interact with.
+We use the data to learn which of our features are important to you and to choose which features we should add or improve next.
+
+* [Official website](https://www.woopra.com/)
+* [Woopra Privacy Policy](https://www.woopra.com/privacy)
